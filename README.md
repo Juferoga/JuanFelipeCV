@@ -9,4 +9,4 @@
 [![License](https://img.shields.io/badge/License-GPL_V.3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 
-Una página web realizada para mostrar a grandes rasgos la creación de un CV principalmente diseñada en css y html básico(sin el uso de frameworks).
+Una página web realizada para mostrar a grandes rasgos la creación de un CV principalmente diseñada en css y html básico (sin el uso de frameworks).
