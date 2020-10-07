@@ -10,3 +10,7 @@
 
 
 Una página web realizada para mostrar a grandes rasgos la creación de un CV principalmente diseñada en css y html básico (sin el uso de frameworks).
+
+## Presentación Ecuaciones - Git Pages
+
+![Presentación](https://docs.google.com/presentation/d/1oyIb_4QifkpnCFIS7hrkkIyZobUXQZ7GGOLA9hiqp6Q/edit?usp=sharing)
