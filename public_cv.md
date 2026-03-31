@@ -28,5 +28,7 @@ Ingeniero de Sistemas con más de 5 años de experiencia diseñando y construyen
 * **Cloud & DevOps:** AWS, Terraform, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Linux.
 
 ## 🎓 Educación
-* **Ingeniería de Sistemas y Computación** — Universidad Pedagógica y Tecnológica de Colombia (UPTC) (2014 - 2021)
+* **Maestria en Ciencias de la Información y la Comunicación** — Universidad Universidad Distrital Francisco José de Caldas (2026-presente)
+* **Ingeniería de Sistemas** — Universidad Universidad Distrital Francisco José de Caldas (2018-2024)
 * Tesis laureada (5.0/5.0) en Criptosistemas Esteganográficos usando Redes Neuronales y Teoría del Caos.
+* **Técnico en Desarrollo de Software** — Servicio Nacional de Aprendizaje (SENA)
